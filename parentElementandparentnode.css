@@ -1,0 +1,97 @@
+#outer{
+    width: 20%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 100px;
+    background-color: lightsalmon;
+}
+#inner{
+    width: 350px;
+    height: 500px;
+    margin: 100px auto 0;
+    background-color: red;
+    padding: 2px;
+
+
+}
+#A:hover{
+    background-color: blue;
+}
+#B:hover{
+    background-color: blue;
+}
+#C:hover{
+    background-color: blue;
+}
+#D:hover{
+    background-color: blue;
+}
+#E:hover{
+    background-color: blue;
+}
+#A{
+    width: 50px;
+    height: 50px;
+    margin-bottom:-10px;
+    text-align: center;
+    font-size: 10px;
+    background-color: yellow;
+    border: 2px solid black;
+    margin-left: 10px;
+    margin-bottom: -10px;
+    margin-right: 0;
+    
+}
+#B{
+    
+    margin-bottom:-10px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 10px;
+    background-color: yellow;
+    border: 2px solid black;
+    margin-bottom: -97px;
+    margin-left: 70px;
+    margin-right: 0;
+}
+#C{
+   
+    margin-bottom:-10px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 10px;
+    background-color: yellow;
+    border: 2px solid black;
+    margin-left: 140px;
+    margin-bottom: -55px;
+    
+    margin-right: 0;
+}
+#D{
+   
+    margin-bottom:-10px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+        font-size: 10px;
+    background-color: yellow;
+    border: 2px solid black;
+    margin-bottom: -50px;
+    margin-left: 210px;
+    margin-right: 0;
+}
+#E{
+   
+    margin-bottom:10px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 10px;
+    background-color: yellow;
+    border: 2px solid black;
+    margin-bottom: -px;
+    margin-left: 280px;
+    margin-right: 0;
+}

@@ -1,0 +1,48 @@
+/*
+for(a=1;a<=5;a++){
+    for(b=1;b<=a;b++){
+        document.write(b)
+    }
+    document.write("<br>");
+}
+*/
+/*
+for(a=1;a<=5;a++){
+    for(b=1;b<=a;b++){
+        document.write(a);
+    }
+    document.write("<br>");
+}
+*/
+/*
+for(a=5;a>=1;a--){
+    for(b=1;b<=a;b++){
+        document.write(b);
+    }
+    document.write("<br>");
+}
+*/
+/*
+for(a=5;a>=1;a--){
+    for(b=1;b<=a;b++){
+        document.write(a);
+    }
+    document.write("<br>");
+}
+*/
+/*
+for(a=1;a<=5;a++){
+    for(b=1;b<=a;b++){
+        document.write("*");
+    }
+    document.write("<br>");
+}
+*/
+/*
+for(a=5;a>=1;a--){
+    for(b=1;b<=a;b++){
+        document.write("*");
+    }
+    document.write("<br>");
+}
+*/

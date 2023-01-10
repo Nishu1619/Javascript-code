@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Fibonaci\Fibonaci\bin\Debug\Fibonaci.exe.config
+C:\Users\HP\source\repos\Fibonaci\Fibonaci\bin\Debug\Fibonaci.exe
+C:\Users\HP\source\repos\Fibonaci\Fibonaci\bin\Debug\Fibonaci.pdb
+C:\Users\HP\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.exe
+C:\Users\HP\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.pdb
+F:\Nest\Javascript\source\repos\Fibonaci\Fibonaci\bin\Debug\Fibonaci.exe.config
+F:\Nest\Javascript\source\repos\Fibonaci\Fibonaci\bin\Debug\Fibonaci.exe
+F:\Nest\Javascript\source\repos\Fibonaci\Fibonaci\bin\Debug\Fibonaci.pdb
+F:\Nest\Javascript\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.csproj.AssemblyReference.cache
+F:\Nest\Javascript\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.csproj.CoreCompileInputs.cache
+F:\Nest\Javascript\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.exe
+F:\Nest\Javascript\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.pdb
